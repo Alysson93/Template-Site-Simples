@@ -1,0 +1,34 @@
+main {
+	text-align: center;
+	padding: 20px;
+}
+
+main h1 {
+	padding-bottom: 40px;
+}
+
+main .foto {
+	padding: 10px;
+}
+
+main img {
+	width: 80%;
+}
+
+main .descricao {
+	padding: 15px;
+}
+
+.descricao h3 {
+	padding: 10px;
+}
+
+.descricao p {
+	text-align: justify;
+	padding: 5px;
+}
+
+hr {
+	margin: 15px;
+	color: #3d437a;	
+}
